@@ -20,7 +20,6 @@
     "@trpc/next": "^10.9.1",
     "@trpc/react-query": "^10.9.1",
     "@trpc/server": "^10.9.1",
-    "framer-motion": "^9.0.1",
     "next": "13.1.6",
     "next-auth": "^4.19.2",
     "react": "18.2.0",
